@@ -6,3 +6,5 @@
 
 어떻게 쓰나요?
 - 아이디어 막 던져보세요. 
+
+https://chat.openai.com/g/g-VF5xFLMZp-rinseutateueob-sense 눌러서 써보세요. 
